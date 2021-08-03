@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sunav\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sunav\\.nuget\\packages"
+    ]
+  }
+}

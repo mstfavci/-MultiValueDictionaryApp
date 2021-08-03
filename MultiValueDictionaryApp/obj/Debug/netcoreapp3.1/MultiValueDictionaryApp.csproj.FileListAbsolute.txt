@@ -1,0 +1,13 @@
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\bin\Debug\netcoreapp3.1\MultiValueDictionaryApp.exe
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\bin\Debug\netcoreapp3.1\MultiValueDictionaryApp.deps.json
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\bin\Debug\netcoreapp3.1\MultiValueDictionaryApp.runtimeconfig.json
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\bin\Debug\netcoreapp3.1\MultiValueDictionaryApp.runtimeconfig.dev.json
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\bin\Debug\netcoreapp3.1\MultiValueDictionaryApp.dll
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\bin\Debug\netcoreapp3.1\MultiValueDictionaryApp.pdb
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\obj\Debug\netcoreapp3.1\MultiValueDictionaryApp.csproj.AssemblyReference.cache
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\obj\Debug\netcoreapp3.1\MultiValueDictionaryApp.AssemblyInfoInputs.cache
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\obj\Debug\netcoreapp3.1\MultiValueDictionaryApp.AssemblyInfo.cs
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\obj\Debug\netcoreapp3.1\MultiValueDictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\obj\Debug\netcoreapp3.1\MultiValueDictionaryApp.dll
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\obj\Debug\netcoreapp3.1\MultiValueDictionaryApp.pdb
+C:\Users\sunav\source\repos\MultiValueDictionaryApp\obj\Debug\netcoreapp3.1\MultiValueDictionaryApp.genruntimeconfig.cache
